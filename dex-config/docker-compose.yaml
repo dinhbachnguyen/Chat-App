@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  dex:
+    build: .
+    ports:
+      - "5556:5556"
+      - "5558:5558"
