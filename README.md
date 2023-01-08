@@ -1,5 +1,5 @@
 
-# Chat application - final project
+# Chat application 
 
 
 
