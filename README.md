@@ -54,9 +54,7 @@
 
 ## Author
 
-- *Benjamin Hini (benjamin.hini@edu.ece.fr)*
 - *Dinh Bach Nguyen (dinhbach.nguyen@edu.ece.fr)*
-- *Maxim Ecanvil (maxim.ecanvil@edu.ece.fr)*
 
 ## Tasks
 
