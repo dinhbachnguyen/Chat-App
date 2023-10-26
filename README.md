@@ -8,7 +8,6 @@
 *how to start and use the application, run the tests, ...*
 
 * Clone this repository, from your local machine:
-  ```
 * Install [Go](https://golang.org/) and [Dex](https://dexidp.io/docs/getting-started/). For example, on Ubuntu, from your project root directory:   
   ```
   # Install Go
