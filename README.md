@@ -146,7 +146,7 @@ Application development
 * Message modification   
   **points : 2**
   
-  <img src="./images\update_delete.PNG" alt="update_delete" style="zoom:25%;" />
+  <img src="./images\update_delete.PNG" alt="update_delete" style="width:25%;" />
   
   Clicking on a message you sent make this data appears, changing the text in the text field and clicking on Edit will edit the message  
   
@@ -158,7 +158,7 @@ Application development
 * Account settings   
   **points : 2**
   
-  <img src="./images/settings.PNG" alt="settings" style="zoom:25%;" />
+  <img src="./images/settings.PNG" alt="settings" style="width:25%;" />
   
   Very basic, you can change your email and user name as they are the only to *client-side* data of the user. A good way to populate the database is to change the email and Save, it will create a new user with a new id and you will get your data back by logging in through Dex. The user name is displayed in the Header and is the one written when you send a message
   
