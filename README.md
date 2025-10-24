@@ -68,7 +68,7 @@ Project management
 * Project structure   
   **points : 4**
   
-  <img src="./images/folder organisation frontend.PNG" alt="folder organisation frontend" style="zoom:50%;" />
+  <img src="./images/folder organisation frontend.PNG" alt="folder organisation frontend" style="zoom:100%;" />
   
   `channel` and `icons` were already there. We added `Display` in which there are all the *main* components (Channels, Login, Welcome...) and `Component` in which you will find the *sub* components (components that are used as part of the main ones)
   
